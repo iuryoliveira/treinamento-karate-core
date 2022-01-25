@@ -1,0 +1,7 @@
+{
+    "id": "#string",
+    "name": "#(userName)",
+    "email": "#(email)",
+    "createdAt": "#string",
+    "updatedAt": "#string"
+}
